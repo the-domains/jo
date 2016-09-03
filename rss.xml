@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jo on the grid]]></title>
+        <description><![CDATA[Jo on the grid]]></description>
+        <link>https://thegrid.ai/jo/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 31 Aug 2016 21:11:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello Grid]]></title>
+            <description><![CDATA[<article><h1>Hello Grid</h1><p>This is my first post on the grid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78eae80d-0385-4d91-aa26-666074c246fe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jo/93414ea7-9a26-4f4d-b74f-9f5d8ee0584d/index.html</link>
+            <guid isPermaLink="false">93414ea7-9a26-4f4d-b74f-9f5d8ee0584d</guid>
+            <pubDate>Wed, 31 Aug 2016 21:11:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
